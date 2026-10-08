@@ -1,6 +1,7 @@
 # Exotic Substances
 
 **v0.4.0 · First release **
+
 Tested on version 0.8.3a
 
 A Chinatown Wars-inspired drug trading loop: learn who wants what, buy into 
