@@ -125,8 +125,8 @@ for a final in-game smoke test; see `TESTING.md`.
 
 ## Credits and disclosure
 
-Created and directed by Drifto with AI-assisted coding tools.
-Sprites are made by Drifto. The models were manually edited from generated bases.
+Created and directed by me with AI-assisted coding tools.
+Sprites are made by me. The models were manually edited by me from generated bases.
 Hypernet Explorer is by **nocoldiz**; this is an unofficial mod.
 
 Code license: MIT. The upstream license is retained in `LICENSE-upstream.txt`.
