@@ -1,6 +1,6 @@
 # Exotic Substances
 
-**v0.4.0 · First release **
+**v0.4.0 · First release**
 
 Tested on version 0.8.3a
 
